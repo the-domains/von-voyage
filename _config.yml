@@ -1,0 +1,14 @@
+layout_spectrum: 0.04345139302313328
+typography_spectrum: 0.3167600096203387
+color:
+  brandStrength: 0.14430694072507322
+  lightness: 0.8588486688677222
+  saturation: 0.9418929999228567
+  rhythmicContrast: 0.3195523931644857
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Von Voyage
